@@ -10,7 +10,6 @@
 <body bgcolor = "LightSkyBlue">
 
 <p><strong>About Me</strong></p>
-
 <p>I am from San Diego, California. In high school I played beach volleyball. Now, I am studying business at McCombs. <br /><br /></p>
 
 <p style="text-align: center;"><a href="https://www.youtube.com"/>Click Here</a> to go to my favorite site</p>
