@@ -1,9 +1,5 @@
 # arieszander.github.io
-<style>
-  body {
-  background-color: rgb(152, 152, 188);
-  }
-</style>
+
 
 <p>&nbsp;</p>
 
@@ -23,3 +19,8 @@
 </body>
 
 <hr />
+<style>
+  body {
+  background-color: rgb(152, 152, 188);
+  }
+</style>
