@@ -10,7 +10,11 @@
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
 <body bgcolor = "LightSkyBlue">
-
+<style>
+  body {
+  background-color: rgb(152, 152, 188);
+  }
+</style>
 <p><strong>About Me</strong></p>
 <p>I am from San Diego, California. In high school I played beach volleyball. Now, I am studying business at McCombs. <br /><br /></p>
 
@@ -19,8 +23,4 @@
 </body>
 
 <hr />
-<style>
-  body {
-  background-color: rgb(152, 152, 188);
-  }
-</style>
+
