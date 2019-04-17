@@ -3,7 +3,7 @@
 
 <center><img src="Profesional Headshot.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
 
-<p style="text-align: center;"><a href="https://www.youtube.com/>Click Here</a> to go to my favorite site</p>
+<p style="text-align: center;"><a href="https://www.youtube.com"/>Click Here</a> to go to my favorite site</p>
 
 <h1 style="text-align: center;">My name is Aries Zander</h1>
 
