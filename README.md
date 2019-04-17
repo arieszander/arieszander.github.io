@@ -1,5 +1,5 @@
 # arieszander.github.io
-
+<div style="background-color:rgb(152, 152, 188);">
 
 <p>&nbsp;</p>
 
@@ -20,3 +20,4 @@
 
 <hr />
 
+</div>
