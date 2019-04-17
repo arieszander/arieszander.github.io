@@ -13,7 +13,7 @@
 
 <p><strong>About Me</strong></p>
 
-<p>This is a new paragraph! <br /><br /></p>
+<p>I am from San Diego, California. In high school I played beach volleyball. Now, I am studying business at McCombs. <br /><br /></p>
 
 </body>
 
