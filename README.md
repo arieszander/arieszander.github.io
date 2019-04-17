@@ -1,4 +1,10 @@
 # arieszander.github.io
+<style>
+  body {
+  background-color: rgb(152, 152, 188);
+  }
+</style>
+
 <p>&nbsp;</p>
 
 <center><img src="Profesional Headshot.jpg" width="265" height="425" align="BOTTOM" /></center><hr />
