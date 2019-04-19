@@ -3,9 +3,9 @@
 
 <p>&nbsp;</p>
 
-<center><img src="Profesional Headshot.jpg" width="265" height="425" align="BOTTOM" /></center><hr />
-
 <h1 style="text-align: center;">My name is Aries Zander</h1>
+
+<center><img src="Profesional Headshot.jpg" width="265" height="425" align="BOTTOM" /></center><hr />
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
