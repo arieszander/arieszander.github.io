@@ -3,11 +3,9 @@
 
 <p>&nbsp;</p>
 
-<h1 style="text-align: center;">My name is Aries Zander</h1>
+<h1 style="text-align: center;">My name is Aries Zander, welcome to my site!</h1>
 
 <center><img src="Profesional Headshot.jpg" width="265" height="425" align="BOTTOM" /></center><hr />
-
-<h2 style="text-align: center;">Welcome to my site!</h2>
 
 <body bgcolor = "LightSkyBlue">
 
